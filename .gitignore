@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+revenue_artifacts/
+mlruns/
+.DS_Store
